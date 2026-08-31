@@ -1,6 +1,0 @@
-[submodule "Client"]
-	path = AlloyClient
-	url = https://github.com/rotmgfreak2000/AlloyClient.git
-[submodule "Server"]
-	path = alloy-server
-	url = https://github.com/rotmgfreak2000/alloy-server.git
